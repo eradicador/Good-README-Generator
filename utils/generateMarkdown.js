@@ -44,8 +44,8 @@ function generateMarkdown(data) {
   ## Tests
   To run test run this command: ${data.tests}
   ## Questions
-    if you have any question contact me at ${data.contact} and here my github link: 
-     [mygithub](https://github.com/${data.name})
+  if you have any question contact me at ${data.contact} and here my github link: 
+  [mygithub](https://github.com/${data.name})
 
 `;
 }

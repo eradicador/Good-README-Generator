@@ -12,7 +12,7 @@
   ## Installation
   To install run this command:  npm i
   ## Usage
-   to To generate a professional README.md for any project
+    To generate a professional README.md file for any project
   ## License
   MIT License
 
@@ -38,9 +38,9 @@
 
   ## Contributing
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
-  ## Test
-  To run test run this command undefined
+  ## Tests
+  To run test run this command: run test
   ## Questions
-    if you have any question contact me at janisepinto@yahoo.com and here my github link: 
-     [mygithub](https://github.com/eradicador)
+  if you have any question contact me at janisepinto@yahoo.com and here my github link: 
+  [mygithub](https://github.com/eradicador)
 
