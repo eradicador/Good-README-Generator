@@ -22,21 +22,9 @@ const questions = [{
     message:"whats the app usage "
 },
 {   type: "input",
-    name: "license",
-    message:"what is your license"
-},
-{   type: "input",
-    name: "contribution",
-    message:"someone contribute in your app developing"
-},
-{   type: "input",
-    name: "test",
+    name: "tests",
     message:"how do you test your project",
     default:"run test"
-},
-{   type: "input",
-    name: "questions",
-    message:"If you have any questions"
 },
 {
     type: "input",
@@ -49,7 +37,6 @@ const questions = [{
     message:"what is your email"
 },
 ];
-
 // function to write README file
 function writeToFile(fileName, data) {
     console.log("writeToFile")
@@ -59,7 +46,6 @@ function writeToFile(fileName, data) {
     process.exit()
     })
 }
-
 // function to initialize program
 function init() {
     
@@ -67,9 +53,6 @@ function init() {
      //   console.log(answers)
         writeToFile("README.md",generateMarkdown(answers))
       })
-   
-
 }
-
 // function call to initialize program
 init();
