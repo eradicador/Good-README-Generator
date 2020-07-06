@@ -41,8 +41,6 @@ const questions = [{
 function writeToFile(fileName, data) {
     console.log("writeToFile")
     fs.writeFile(fileName, data, function(err,response){
-      //  console.log(err)
-    //console.log(response)
     process.exit()
     })
 }
@@ -50,7 +48,6 @@ function writeToFile(fileName, data) {
 function init() {
     
     inquirer.prompt(questions).then(answers => {
-     //   console.log(answers)
         writeToFile("README.md",generateMarkdown(answers))
       })
 }
