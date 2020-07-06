@@ -2,6 +2,9 @@
   # Readme Generator
   ## Description
     This is a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). The application will be invoked with the following command: node index.js
+  ## Screenshot
+  <img src ="screenshot.png" width="500">
+    
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -40,7 +43,7 @@
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
   ## Tests
   To run test run this command: run test
-  * Test video of the application https://drive.google.com/file/d/162Gk8Lhyq8KR7B00d69eKAOh-DT4BYGh/view
+  * Test video of the application: https://drive.google.com/file/d/162Gk8Lhyq8KR7B00d69eKAOh-DT4BYGh/view
   ## Questions
   if you have any question contact me at janisepinto@yahoo.com and here my github link: 
   [mygithub](https://github.com/eradicador)

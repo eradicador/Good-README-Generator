@@ -6,7 +6,8 @@ function generateMarkdown(data) {
   ## Description
     ${data.description}
   ## Screenshot
-  <img src ="/screenshot.png" width="500">  
+  <img src ="screenshot.png" width="500">
+    
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
