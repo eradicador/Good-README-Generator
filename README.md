@@ -40,7 +40,7 @@
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
   ## Tests
   To run test run this command: run test
-  https://drive.google.com/file/d/162Gk8Lhyq8KR7B00d69eKAOh-DT4BYGh/view
+  * Test video of the application https://drive.google.com/file/d/162Gk8Lhyq8KR7B00d69eKAOh-DT4BYGh/view
   ## Questions
   if you have any question contact me at janisepinto@yahoo.com and here my github link: 
   [mygithub](https://github.com/eradicador)
