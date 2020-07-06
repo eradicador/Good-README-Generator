@@ -4,7 +4,7 @@
     This is a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). The application will be invoked with the following command: node index.js
   ## Screenshot
   <img src ="screenshot.png" width="500">
-    
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -16,6 +16,9 @@
   To install run this command:  npm i
   ## Usage
     To generate a professional README.md file for any project
+  ## Badge
+  https://img.shields.io/badge/eradicador-100%25-brightgreen
+    
   ## License
   MIT License
 

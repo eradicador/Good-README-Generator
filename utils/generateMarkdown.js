@@ -7,7 +7,7 @@ function generateMarkdown(data) {
     ${data.description}
   ## Screenshot
   <img src ="screenshot.png" width="500">
-    
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -19,6 +19,9 @@ function generateMarkdown(data) {
   To install run this command:  ${data.installation}
   ## Usage
     ${data.usage}
+  ## Badge
+  https://img.shields.io/badge/eradicador-100%25-brightgreen
+    
   ## License
   MIT License
 
