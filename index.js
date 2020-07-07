@@ -1,5 +1,8 @@
+// script to require inquirer
 const inquirer = require("inquirer");
+// to use the file system module
 var fs = require('fs');
+// link to generate markdown 
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
